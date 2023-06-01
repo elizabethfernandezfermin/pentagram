@@ -296,6 +296,8 @@ header{
 .one{
     background-color: #1b1c1e;
     padding: 5.3%;
+}
+.one img{
 	border-radius: 0 !important;
 }
 .logo-progress1{
